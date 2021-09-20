@@ -34,7 +34,7 @@ paynow = Paynow(
 )
 
 # customer detail for transaction
-customer_email = 'alfredtkudiwa@gmail.com'
+customer_email = 'mail@mailto.com'
 customer_mobile_number = '0771111111'
 
 # transaction detail
